@@ -1,0 +1,35 @@
+value_date,entity,description,signed_cash_USDm,status
+2024-07-05,INC,customer cash batches,115,bank-posted
+2024-07-05,INC,payroll supplier tax and capex batches,-144,bank-posted
+2024-07-05,EUR,customer cash batches,12,bank-posted
+2024-07-05,EUR,payroll supplier tax and capex batches,-19,bank-posted
+2024-07-05,BEL,customer cash batches,8,bank-posted
+2024-07-05,BEL,payroll supplier tax and capex batches,-10,bank-posted
+2024-07-12,INC,customer cash batches,125,bank-posted
+2024-07-12,INC,payroll supplier tax and capex batches,-152,bank-posted
+2024-07-12,EUR,customer cash batches,14,bank-posted
+2024-07-12,EUR,payroll supplier tax and capex batches,-18,bank-posted
+2024-07-12,BEL,customer cash batches,10,bank-posted
+2024-07-12,BEL,payroll supplier tax and capex batches,-13,bank-posted
+2024-07-19,INC,customer cash batches,130,bank-posted
+2024-07-19,INC,payroll supplier tax and capex batches,-160,bank-posted
+2024-07-19,EUR,customer cash batches,17,bank-posted
+2024-07-19,EUR,payroll supplier tax and capex batches,-22,bank-posted
+2024-07-19,BEL,customer cash batches,11,bank-posted
+2024-07-19,BEL,payroll supplier tax and capex batches,-12,bank-posted
+2024-07-26,INC,customer cash batches,128,bank-posted
+2024-07-26,INC,payroll supplier tax and capex batches,-149,bank-posted
+2024-07-26,EUR,customer cash batches,15,bank-posted
+2024-07-26,EUR,payroll supplier tax and capex batches,-20,bank-posted
+2024-07-26,BEL,customer cash batches,10,bank-posted
+2024-07-26,BEL,payroll supplier tax and capex batches,-12,bank-posted
+2024-08-02,INC,customer cash batches,122,bank-posted
+2024-08-02,INC,payroll supplier tax and capex batches,-153,bank-posted
+2024-08-02,EUR,customer cash batches,14,bank-posted
+2024-08-02,EUR,payroll supplier tax and capex batches,-17,bank-posted
+2024-08-02,BEL,customer cash batches,9,bank-posted
+2024-08-02,BEL,payroll supplier tax and capex batches,-11,bank-posted
+2024-07-12,EUR,Airbus group loan repayment - confirmation AC0712,-4,bank-posted
+2024-07-18,INC,Morgan Stanley bridge draw,200,bank-posted
+2024-07-19,INC,Boeing MOA cash repayment,-40,bank-posted
+2024-07-19,INC,PO RF-118 separation deposit,-2,bank-posted
