@@ -1,0 +1,4 @@
+payment_date,entity,payee,amount_USDm,status
+2024-08-14,INC,The Boeing Company,150.6,instruction prepared; approval pending
+2024-09-18,INC,The Boeing Company,134.3,scheduled under June amendment
+2024-10-16,INC,The Boeing Company,50.6,scheduled under June amendment
