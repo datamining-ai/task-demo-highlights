@@ -1,0 +1,35 @@
+source_file,source_line,value_date,entity,description,signed_cash_USDm,status,running_entity_cash_USDm
+bank_posting_batches.csv,2,2024-07-05,INC,customer cash batches,115,bank-posted,247
+bank_posting_batches.csv,3,2024-07-05,INC,payroll supplier tax and capex batches,-144,bank-posted,103
+bank_posting_batches.csv,4,2024-07-05,EUR,customer cash batches,12,bank-posted,58
+bank_posting_batches.csv,5,2024-07-05,EUR,payroll supplier tax and capex batches,-19,bank-posted,39
+bank_posting_batches.csv,6,2024-07-05,BEL,customer cash batches,8,bank-posted,36
+bank_posting_batches.csv,7,2024-07-05,BEL,payroll supplier tax and capex batches,-10,bank-posted,26
+bank_posting_batches.csv,8,2024-07-12,INC,customer cash batches,125,bank-posted,228
+bank_posting_batches.csv,9,2024-07-12,INC,payroll supplier tax and capex batches,-152,bank-posted,76
+bank_posting_batches.csv,10,2024-07-12,EUR,customer cash batches,14,bank-posted,53
+bank_posting_batches.csv,11,2024-07-12,EUR,payroll supplier tax and capex batches,-18,bank-posted,35
+bank_posting_batches.csv,12,2024-07-12,BEL,customer cash batches,10,bank-posted,36
+bank_posting_batches.csv,13,2024-07-12,BEL,payroll supplier tax and capex batches,-13,bank-posted,23
+bank_posting_batches.csv,32,2024-07-12,EUR,Airbus group loan repayment - confirmation AC0712,-4,bank-posted,31
+bank_posting_batches.csv,33,2024-07-18,INC,Morgan Stanley bridge draw,200,bank-posted,276
+bank_posting_batches.csv,14,2024-07-19,INC,customer cash batches,130,bank-posted,406
+bank_posting_batches.csv,15,2024-07-19,INC,payroll supplier tax and capex batches,-160,bank-posted,246
+bank_posting_batches.csv,16,2024-07-19,EUR,customer cash batches,17,bank-posted,48
+bank_posting_batches.csv,17,2024-07-19,EUR,payroll supplier tax and capex batches,-22,bank-posted,26
+bank_posting_batches.csv,18,2024-07-19,BEL,customer cash batches,11,bank-posted,34
+bank_posting_batches.csv,19,2024-07-19,BEL,payroll supplier tax and capex batches,-12,bank-posted,22
+bank_posting_batches.csv,34,2024-07-19,INC,Boeing MOA cash repayment,-40,bank-posted,206
+bank_posting_batches.csv,35,2024-07-19,INC,PO RF-118 separation deposit,-2,bank-posted,204
+bank_posting_batches.csv,20,2024-07-26,INC,customer cash batches,128,bank-posted,332
+bank_posting_batches.csv,21,2024-07-26,INC,payroll supplier tax and capex batches,-149,bank-posted,183
+bank_posting_batches.csv,22,2024-07-26,EUR,customer cash batches,15,bank-posted,41
+bank_posting_batches.csv,23,2024-07-26,EUR,payroll supplier tax and capex batches,-20,bank-posted,21
+bank_posting_batches.csv,24,2024-07-26,BEL,customer cash batches,10,bank-posted,32
+bank_posting_batches.csv,25,2024-07-26,BEL,payroll supplier tax and capex batches,-12,bank-posted,20
+bank_posting_batches.csv,26,2024-08-02,INC,customer cash batches,122,bank-posted,305
+bank_posting_batches.csv,27,2024-08-02,INC,payroll supplier tax and capex batches,-153,bank-posted,152
+bank_posting_batches.csv,28,2024-08-02,EUR,customer cash batches,14,bank-posted,35
+bank_posting_batches.csv,29,2024-08-02,EUR,payroll supplier tax and capex batches,-17,bank-posted,18
+bank_posting_batches.csv,30,2024-08-02,BEL,customer cash batches,9,bank-posted,29
+bank_posting_batches.csv,31,2024-08-02,BEL,payroll supplier tax and capex batches,-11,bank-posted,18
