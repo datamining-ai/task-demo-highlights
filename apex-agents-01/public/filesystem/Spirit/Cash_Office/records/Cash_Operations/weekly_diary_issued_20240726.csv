@@ -1,0 +1,13 @@
+week_ending,entity,customer_receipts_USDm,operating_disbursements_USDm,batch_reference,issued
+2024-08-09,INC,137,162,ordinary batches,2024-07-26
+2024-08-09,EUR,8,12,ordinary batches,2024-07-26
+2024-08-09,BEL,7,8,ordinary batches,2024-07-26
+2024-08-16,INC,136,166,ordinary batches,2024-07-26
+2024-08-16,EUR,12,11,EUR customer batch on 16 August is invoice AIR-0731; other rows are ordinary cash batches,2024-07-26
+2024-08-16,BEL,8,9,ordinary batches,2024-07-26
+2024-08-23,INC,142,164,ordinary batches,2024-07-26
+2024-08-23,EUR,8,10,ordinary batches,2024-07-26
+2024-08-23,BEL,8,10,ordinary batches,2024-07-26
+2024-08-30,INC,144,167,ordinary batches,2024-07-26
+2024-08-30,EUR,9,11,ordinary batches,2024-07-26
+2024-08-30,BEL,9,11,ordinary batches,2024-07-26
