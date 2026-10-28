@@ -1,0 +1,8 @@
+item,case_or_invoice,agreement_or_event_date,amount_USDm,effect_on_invoice,status_at_2024_08_05,next_event,source
+Gross July invoice,AIR-0731,2024-07,12.0,Gross invoice payable by Airbus / receivable by Spirit Europe,Accepted subject to signed credits; not evidenced as paid,16 August payment run,remittance_advice_20240802.md
+Agreed claim credit,A350-DC-14,2024-08-01,-5.0,Reduce AIR-0731 cash settlement,Signed full case settlement; posting/application not evidenced,Apply in 16 August run; no separate bank payment,remittance_advice_20240802.md
+Agreed claim credit,A350-DC-18,2024-08-02,-3.0,Reduce AIR-0731 cash settlement,Signed full case settlement; posting/application not evidenced,Apply in 16 August run; no separate bank payment,remittance_advice_20240802.md
+Expected net cash,AIR-0731,2024-08-16,4.0,12.0 - 5.0 - 3.0,Scheduled future payment; not July cash or confirmed August receipt,Match bank and ledger after payment,remittance_advice_20240802.md
+Invoice clearing check,AIR-0731,2024-08-16,0.0,12.0 - 5.0 - 3.0 - 4.0,Residual only if all advised credits and cash execute,Investigate any actual residual,Calculated from remittance advice
+Residual agreed cases after credit application,A350-DC-14 and A350-DC-18,2024-08-16,0.0,8.0 agreed claims - 8.0 invoice credits,Conditional on credit execution; no duplicate completion cash claim,Close cases after matching,remittance_advice_20240802.md
+Other quantified agreed liquidated damages,Other cases,2024-08-02,0.0,None quantified/agreed elsewhere in simulated customer file,Does not assert absence of potential or future claims,Continue monthly claims review,remittance_advice_20240802.md
