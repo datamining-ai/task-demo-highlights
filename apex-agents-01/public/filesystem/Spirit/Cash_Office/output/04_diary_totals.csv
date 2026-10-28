@@ -1,0 +1,13 @@
+scenario,week_ending,group_closing_USDm,group_floor_USDm,entity_specific_funding_need_USDm,group_headroom_USDm
+queued_payment_no_new_funding,2024-08-09,158,54,0,104
+queued_payment_no_new_funding,2024-08-16,-22.6,54,93.6,-76.6
+queued_payment_no_new_funding,2024-08-23,-48.6,54,115.6,-102.6
+queued_payment_no_new_funding,2024-08-30,-75.6,54,138.6,-129.6
+conditional_full_remaining_bridge,2024-08-09,158,54,0,104
+conditional_full_remaining_bridge,2024-08-16,127.4,54,0,73.4
+conditional_full_remaining_bridge,2024-08-23,101.4,54,0,47.4
+conditional_full_remaining_bridge,2024-08-30,74.4,54,0,20.4
+ordinary_batches_only_payment_unresolved,2024-08-09,158,54,0,104
+ordinary_batches_only_payment_unresolved,2024-08-16,128,54,0,74
+ordinary_batches_only_payment_unresolved,2024-08-23,102,54,0,48
+ordinary_batches_only_payment_unresolved,2024-08-30,75,54,0,21
