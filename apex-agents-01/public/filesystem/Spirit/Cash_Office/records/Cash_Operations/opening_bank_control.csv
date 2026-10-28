@@ -1,0 +1,5 @@
+as_of,entity,account,cash_USDm,record
+2024-06-27,INC,operating,132,simulated bank control
+2024-06-27,EUR,operating,46,simulated bank control
+2024-06-27,BEL,operating,28,simulated bank control
+2024-06-27,INC,restricted,28.1,simulated separately controlled restricted account
