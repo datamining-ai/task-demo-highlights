@@ -1,0 +1,1288 @@
+
+
+Exhibit 2.2
+
+| Certain identified information has been excluded from this exhibit because it is both not material and is the
+type that the registrant treats as private or confidential. In this exhibit, “[***]” indicates where such information is
+omitted.
+
+PROJECT SPARROW
+
+Term Sheet
+
+This term sheet constitutes
+a binding commitment by the parties hereto with respect to the Transactions (as defined below) and the other matters described herein.
+The parties hereto agree to negotiate in good faith and to enter into one or more Definitive Agreements (as defined below) as set forth
+herein.
+
+|
+| Matter
+| Terms
+
+| 1.
+| TRANSACTION
+
+| 1.1
+| Parties
+|
+· Spirit
+AeroSystems, Inc.
+
+(“Spirit”, which term shall include any relevant direct and indirect subsidiary(ies) which are or will be party
+to the transactions or arrangements described in this term sheet)
+
+· Airbus
+SE
+
+(“Airbus”, which term shall include any relevant direct and indirect subsidiary(ies) which are or will be party
+to the transactions or arrangements described in this term sheet, including any newco(s) incorporated as purchaser(s) for
+the purposes of the Transactions (as defined below)).
+
+(each a “Party” and together the “Parties”).
+
+Spirit
+AeroSystems, Inc. will provide a customary guarantee with respect to the performance by its direct or indirect subsidiary(ies)
+of their respective obligations under the transactions or arrangements described in this term sheet. In addition, The Boeing Company
+(together with its subsidiaries, “Boeing”), will provide a customary guarantee to Airbus of the performance by
+Spirit of its obligations under the Definitive Agreements following the closing of the Transactions (the “Closing”
+and the date of the Closing, the “Closing Date”). To the extent a subsidiary of Airbus SE is a party to any of
+the Definitive Agreements, Airbus SE will provide a customary guarantee to Boeing of the performance by such subsidiary of its obligations
+under such Definitive Agreement.
+
+The transactions between Spirit and Airbus contemplated under
+this term sheet are collectively referred to as the “Transactions.”
+
+1
+
+|
+| Matter
+| Terms
+
+| 1.2
+| Transaction
+Perimeter
+|
+Subject to the exclusions set forth in this Section 1.2,
+and except for Excluded Assets (as defined below), Airbus will acquire from Spirit, directly or indirectly via one or more of its
+affiliates, the following assets,1 in each case free and clear of all “encumbrances”2:
+
+(a) all
+assets (other than intellectual property) primarily used in connection with the performance by Spirit of its obligations under its
+contracts with Airbus operated or performed by Spirit in Belfast, Northern Ireland (the “Belfast Airbus Business”),
+including:
+
+(i) Spirit’s
+WPU facility, including all real property interests (including fixtures and improvement thereon), all equipment and tooling located
+thereat, and all contracts and other assets (other than intellectual property) primarily related to the work performed thereat (in
+each case, excluding any assets exclusively related to the work performed on behalf of non-Airbus customers, if any, which Spirit
+will use commercially reasonable efforts to transfer prior to the Closing);
+
+(ii) all
+equipment and tooling located at Spirit’s Main Factory primarily used in connection with the A220 Mid Fuselage program and
+all contracts and other assets (other than intellectual property and real property) primarily related to the work performed at such
+facility in connection with the A220 Mid Fuselage program; and
+
+(iii) all
+contracts and other assets (other than real property, intellectual property and chemical processing tanks and equipment) primarily
+related to the A220 chemical fuselage work performed on behalf of Airbus at the C04 facility.
+
+(b) all
+contracts and other assets (other than intellectual property, real property and generic equipment which has not been customized for
+Airbus-related activities) primarily related to the performance by Spirit of its obligations under its contract with Airbus relating
+to the A220 pylon operated or performed by Spirit in Wichita, Kansas (the “A220 Pylon Business”) (it being understood
+that the tooling used in connection with the A220 Pylon Business that is currently owned by Airbus will be retained by Airbus);
+
+(c) all
+contracts, real estate, equipment, tooling and other assets (other than intellectual property) used (or intended for use) in connection
+with the performance by Spirit of its obligations under its contracts with Airbus operated or performed by Spirit in Casablanca,
+Morocco (the “Morocco Business”):
+
+(d) unless
+acquired by a third party at or prior to the Closing in accordance with the terms set forth below, all contracts, real property,
+equipment, tooling, and other assets (other than intellectual property) primarily used in connection with the performance by Spirit
+of its obligations under its contracts with Airbus operated or performed by Spirit in Prestwick, Scotland (the “Airbus Prestwick
+Business”);
+
+(e) solely
+if not acquired by a third party prior to the Closing in accordance with the terms set forth below and to the extent agreed to transfer
+to Airbus pursuant to the Alternative Subang Agreement, any assets (other than intellectual property and any real property excluded
+from the Transaction Perimeter under the Alternative Subang Agreement as discussed below) primarily used in connection with the performance
+by Spirit of its obligations under its contracts with Airbus operated or performed by Spirit in Subang, Malaysia (the “Airbus
+Subang Assets”);
+
+| | 1 | While the phrasing in this Section 1.2 refers to an asset/liability/business
+transfer, it is acknowledged that the Parties may agree to equity/entity transfers, with a focus on maximizing tax and legal efficiencies
+while preserving the Parties’ identified transaction perimeter.
+
+| | 2 | Customarily defined terms, like “Encumbrances,”
+will be defined in the applicable Definitive Agreements in a manner to be mutually agreed. In addition, customary qualifications, limitations
+and standards, like “except for Permitted Encumbrance,” will also be included in the applicable Definitive Agreements in
+a manner to be mutually agreed.
+
+2
+
+|
+| Matter
+| Terms
+
+|
+|
+|
+(f) all
+contracts, real estate, equipment, tooling, and other assets (other than intellectual property) used in connection with the performance
+by Spirit of its obligations under its contracts with Airbus operated or performed by Spirit in Kinston, North Carolina, USA and
+St. Nazaire, France (the “Airbus Kinston / St. Nazaire Business”);
+
+(g) if
+Zhejiang Xizi Aviation Industry Group Co., Ltd. declines to exercise its right of first refusal and/or approves the transfer
+of interests, as applicable, under that certain Amended and Restated Joint Venture Agreement, dated as of January 18, 2023,
+all outstanding interests in Zhejiang Xizi Spirit Aviation Industry Co., Ltd. held by Spirit (the “Xizi Interests”);
+
+(h) all
+assets (other than intellectual property, but including books and records (in modifiable format) and IT assets) held by any Spirit
+entity primarily related to or primarily used or held for use in the Transferred Businesses (as defined below);
+
+(i) the
+A220 dedicated logistics facility;
+
+(j) all
+assets set forth on a schedule to be mutually agreed amongst the parties; and
+
+(k) the
+Airbus Operational IP (as defined in Section 1.12).
+
+((a) through (k), collectively, the “Transaction
+Perimeter”).
+
+Following the date of this term sheet, Spirit (1) shall use
+commercially reasonable efforts to sell (A) all of the assets (other than intellectual property) located at or used in connection
+with Spirit’s operations in Subang, Malaysia (the “Subang Assets”), including by way of a share sale of
+Spirit Malaysia Sdn Bhd. and (B) all (but not less than all) of the Airbus Prestwick Business, in each case to one or more third
+parties (provided that, the sale of the Subang Assets or the Airbus Prestwick Business to a third party will not be a condition
+to the Closing) and (2) shall be permitted to sell the Remaining Belfast Business to one or more third parties; provided
+that, (x) Spirit shall use commercially reasonable efforts to keep Airbus informed as to the status of such potential transactions
+and (y) Spirit may not enter into a definitive agreement with respect to the Subang Assets or the Airbus Prestwick Business
+except (i) to a buyer identified on Exhibit A hereto (or any of its affiliates) or (ii) with the prior written
+consent of Airbus (with such consent not to be unreasonably withheld, conditioned or delayed if the proposed buyer is not an OEM
+competitor to Airbus and is reasonably capable of assuming and performing the obligations to Airbus under the applicable work package(s)).
+
+3
+
+|
+| Matter
+| Terms
+
+|
+|
+|
+From and after the date of this term sheet, Airbus shall cooperate
+in good faith and provide reasonable assistance with respect to the sale of the assets described in the previous paragraph with a
+view toward, amongst other factors, Spirit maximizing the purchase price and consummating the sale(s) to third-party buyers,
+including by taking reasonable actions to cooperate with respect to any regulatory filings, consenting to the full or partial assignment
+or novation of any related contracts to which it is party (including any or all TSA services applicable to such assets) on terms
+reasonably acceptable to Airbus, agreeing to provide to the acquirer, or, if the Airbus Prestwick Business is included in the Transaction
+Perimeter, Boeing, any transitional services as reasonably requested at Airbus’s actual internal and external costs, and consenting
+to the provision of its applicable contracts with Spirit to prospective third party buyers subject to customary confidentiality obligations
+to Spirit in connection with such prospective buyers’ diligence.
+
+In
+the event the Subang Assets are not acquired by a third party at or prior to the Closing, Airbus and Spirit shall cooperate in good
+faith to (i) negotiate, document and implement an alternative arrangement (the “Alternative Subang Agreement”)
+pursuant to which the Subang Assets and the associated liabilities shall be allocated and transferred to Spirit and Airbus in a manner
+that is consistent with the terms and principles laid out in this term sheet and (ii) determine whether the real property
+in Subang, Malaysia is in the Transaction Perimeter. For the avoidance of doubt, the Definitive Agreements will set forth in additional
+detail the mechanics required to implement an Alternative Subang Agreement prior to the Closing, including time frames and deadlines
+applicable to the negotiation and entry into such arrangements.
+
+Notwithstanding anything to the contrary in this term sheet, no
+binding agreement with respect to the French elements of the Transactions may be entered into prior to the completion of any information
+and/or consultation obligations of employee representatives and/or employees of Airbus and/or Spirit AeroSystems France SARL. The
+Parties agree to use reasonable best efforts to complete such information and/or consultation obligations following the signing of
+this term sheet.
+
+The “Transferred Businesses” means the Airbus
+Kinston / St. Nazaire Business, the Belfast Airbus Business, the A220 Pylon Business, and the Morocco Business; provided,
+that, if Spirit is unsuccessful in selling the Airbus Prestwick Business or the Airbus Subang Assets to a third party (in accordance
+with the terms set forth above) at or prior to the Closing, then such unsold business shall be deemed a Transferred Business.
+
+4
+
+|
+| Matter
+| Terms
+
+| 1.3
+| Excluded
+Assets
+|
+Notwithstanding the foregoing, the Transaction Perimeter shall
+not include, Spirit shall not transfer to Airbus, and Airbus shall not acquire, any interest in:
+
+(a) any
+assets (other than intellectual property) primarily related to or primarily used in connection with Spirit’s business of performing
+its obligations under its statements of work with Boeing;
+
+(b) any
+assets (other than intellectual property) primarily related to or primarily used in connection with Spirit’s business in Belfast,
+Northern Ireland other than the Belfast Airbus Business, including, without limitation, any assets (other than intellectual property)
+primarily related to or primarily used in connection with the (i) provision of engineering services, including research and
+development, to third parties other than Airbus, (ii) business of performing its obligations under its statements of work with
+Bombardier, Rolls-Royce, defense customers or other third-party customers at Belfast and (iii) aftermarket business at Belfast
+(collectively, the “Remaining Belfast Business”);
+
+(c) any
+assets (other than intellectual property) located at or used in connection with Spirit’s operations in Subang, Malaysia other
+than the Airbus Subang Assets and, solely if acquired by a third party at or prior to the Closing in accordance with the terms set
+forth above, the Airbus Subang Assets;
+
+(d) any
+assets (other than intellectual property) primarily related to or primarily used in connection with Spirit’s business in Prestwick,
+Scotland other than the Airbus Prestwick Business and the assets compromising the Aerospace Innovation Center (the “Non-Airbus
+Prestwick Business”) and, solely if acquired by a third party prior to the Closing in accordance with the terms set forth
+above, the Airbus Prestwick Business (together with the Non-Airbus Prestwick Business, the “Prestwick Business”);
+
+(e) any
+assets (including any contracts and real property) comprising or contained within the Aerospace Innovation Centre at Prestwick, Scotland
+(but excluding any Airbus Operational IP (including physical manifestations thereof) and tools, equipment, or other assets
+(other than intellectual property and physical manifestations thereof) contributed by Airbus or exclusively used in the performance
+of any Airbus Contract (as defined below));
+
+(f) any
+contracts and other assets (other than intellectual property) exclusively related to Spirit’s regional and business jet operations
+and any aftermarket operations in Casablanca, Morocco, as of the date hereof (which shall be relocated prior to the Closing);
+
+(g) any
+trademarks, domain names or other indicia of origin (“Trademarks”);
+
+(h) any
+intellectual property other than the Airbus Operational IP;
+
+(i) any
+cash or cash equivalents (other than the Cash Amount (as defined below));
+
+5
+
+|
+| Matter
+| Terms
+
+|
+|
+|
+(j) any
+insurance policies; and
+
+(k) Spirit AeroSystems
+(Hangzhou) Enterprise Management Consulting Co., Ltd. (clauses (a)–(k), collectively, the “Excluded Assets”).
+
+| 1.4
+| Assumed
+and Retained Liabilities
+|
+Notwithstanding anything to the contrary, Airbus is not assuming,
+and Spirit shall retain, each of the following (“Excluded Liabilities”):
+
+(a) any
+liabilities to the extent arising from or related to product liability, warranty liability or design liability, in each case to the
+extent related to or arising from Spirit’s conduct prior to the Closing (but excluding any liabilities that Airbus would be
+solely responsible for under the existing Airbus Contracts);
+
+(b) any
+liabilities to the extent excluded from coverage under the R&WI Policy due to the knowledge of Airbus (including any so called
+“interim breach” under the R&WI Policy (subject to the parties’ mutual determination to use commercially reasonable
+efforts to obtain insurance for such “interim breaches”) but excluding, for the avoidance of doubt, trade payables, balance
+sheet accrued liabilities, and other ordinary course liabilities not generally covered by representation and warranty insurance policies);
+and
+
+(c) any
+other liabilities to the extent expressly excluded from coverage under the R&WI Policy (other than standard exclusions customary
+for representation and warranty insurance policies in general); provided, that Airbus will use commercially reasonable efforts
+to remove all policy-specific exclusions.
+
+Except
+for Excluded Liabilities , Airbus will assume all liabilities to the extent related to the Transaction Perimeter or the operation
+of the Transferred Businesses (including, to the extent the Airbus Prestwick Business and/or the Airbus Subang Assets are included
+within the Transaction Perimeter, relating to the Airbus Prestwick Business and/or Airbus Subang Assets, as applicable) or related
+to the Transferring Employees (as defined below), whether occurring before, on, or after the Closing (including any retention, transaction,
+change in control or other bonuses or compensation arrangements (and the employer-paid portion of any taxes, social security, retirement
+and similar contributions with respect to the foregoing)) (collectively, the “Assumed Liabilities”); provided,
+that any retention, transaction or change in control bonus or similar arrangement established by Spirit prior to the Closing that
+becomes payable to any Transferring Employees upon or after the Closing will be borne by Airbus and considered an Assumed Liability
+only to the extent (i) consisting of retention awards granted to Business Employees in an amount not exceeding $2,500,000 (it
+being understood and agreed that Spirit and Airbus shall mutually agree upon the allocation of such awards amongst the Business Employees);
+(ii) in the case of “double-trigger” awards only, established between the date of this term sheet and the signing
+of the Purchase Agreement (the “Signing”) in the ordinary course in an amount not to exceed $1,000,000 in the
+aggregate or entered into following the Signing in compliance with the interim operating covenants under the Definitive Agreements,
+or (iii) entered into with the prior written consent of Airbus (each, an “Assumed Award”). For the avoidance
+of doubt, any retention bonus or similar arrangement established by Spirit prior to the Closing with the prior written consent
+of Airbus that becomes payable to any Transferring Employees before the Closing will be borne by Airbus with a corresponding purchase
+price adjustment.
+
+6
+
+|
+| Matter
+| Terms
+
+|
+|
+|
+Spirit will agree to facilitate the submission by Airbus of any
+insurance claims against Spirit’s occurrence-based insurance policies with respect to matters that occur prior to the Closing
+and shall forward any proceeds in respect of such proceeds to Airbus (net of any deductible or retention amount).
+
+Airbus will obtain a customary representation and warranty insurance
+policy (the “R&WI Policy”) to the reasonable satisfaction of Airbus and Boeing (which shall include a customary
+waiver of subrogation rights against seller affiliates except in the case of defined “Fraud”) with respect to the representations
+and warranties of Spirit set forth in the Definitive Agreements, the cost of which shall be borne 50/50 between Spirit and Airbus.
+
+Airbus will use commercially reasonable efforts to seek recovery,
+to the extent available, from all available insurance policies prior to seeking recovery from Spirit for an Excluded Liability or
+under any other indemnity claim.
+
+| 1.5
+| Real
+Estate
+| Spirit
+shall (or shall cause the purchaser of the Remaining Belfast Business to) enter into sublease or shared space arrangement (the “Belfast
+Agreement”) with Airbus pursuant to which Airbus will have access to the Belfast Main Factory and C04 facility to continue
+to engage in activities associated with the Belfast Airbus Business, for nominal consideration of $1.00 (it being understood
+that Airbus shall be responsible for pro-rata utility expenses, applicable pro-rata land lease costs and other costs incurred by
+Spirit or the purchaser of the Remaining Belfast Business in providing Airbus with access to such facilities (collectively, the “Facility
+Costs”), for an initial term of 24 months (the “Initial Period”), with a unilateral right for Airbus
+to extend for an additional 12 months; provided that Airbus delivers a written notice of extension not less than 90 days prior
+to the end of the Initial Period (the “Extension Period” and together with the Initial Period, the “Belfast
+Transition Period”). Airbus shall have the right to terminate the Belfast Agreement at any time during the Belfast
+Transition Period upon 60 days’ notice; provided, that if Airbus terminates the Belfast Agreement or ceases use of the
+applicable space during the Belfast Transition Period, then Airbus shall (i) continue to be responsible for the applicable Facility
+Costs from the date of termination or cessation of use until Airbus has completed the Facility Restoration (as defined below) to
+the reasonable satisfaction of Spirit or the purchaser of the Remaining Belfast Business (such period, the “Restoration
+Period”) and (ii) pay to Spirit or the purchaser of the Remaining Belfast Business an early termination fee equal
+to the average Facility Costs incurred in the three months prior to the date of termination or cessation of use. Upon
+expiration or termination of the Belfast Transition Period, Airbus shall remove (or cause to be removed), at Airbus’s sole
+cost and expense, any and all equipment, materials or other movable property belonging to Airbus from such facilities and shall be
+responsible for reasonable restoration expenses arising from the removal of such equipment, materials and other movable property
+from such facilities (“Facility Restoration”).
+
+7
+
+|
+| Matter
+| Terms
+
+| 1.6
+| Third
+Party Consents
+|
+Subject to Section 1.11, Spirit and Airbus will use commercially reasonable efforts to obtain all third party consents required to transfer and/or assign the assets and liabilities (including, for the avoidance of doubt, any material contracts) within the Transaction Perimeter at the Closing, it being understood and agreed that, for such required third-party consents, (x) Spirit shall bear and be required to pay any costs below a specified aggregate amount to be agreed between the parties (the “Consent Cap”) in connection with obtaining any such consents and (y) for any such costs in excess of the Consent Cap, Spirit shall promptly notify Airbus of such excess costs and shall pay any such excess costs at Airbus’s written request, subject to Airbus agreeing to reimburse Spirit for any such excess costs. For the avoidance of doubt, in no event will Spirit bear more than the Consent Cap in the aggregate for any third-party consents as described in the foregoing sentence. Subject to the conditions to the Closing set forth in Section 2.2 below, if any asset cannot be transferred or assigned at the Closing as a result of a failure to obtain necessary third party consents, then the parties shall cooperate to enter into a mutually agreeable arrangement under which Airbus would obtain the benefits and bear the burdens associated with such asset as if such asset had transferred or been assigned in accordance with the Definitive Agreements at the Closing (to the extent permissible under the relevant arrangement) for a mutually agreed period of time after the Closing. In the Definitive Agreements, this covenant will be built out in customary form to provide that Spirit does not need to agree or commit to any obligation that is not conditioned upon the Closing.
+
+| 1.7
+| Separation/Pre-Closing
+Ringfencing
+|
+Spirit shall, and Airbus shall cooperate with Spirit to, at Spirit’s
+sole cost expense, use reasonable best efforts to ringfence and internally segregate all operations of the Spirit business conducted
+primarily for the benefit of Airbus from the remainder of the Spirit business (including any such business conducted for the benefit
+of Boeing), in each case pursuant to segregation principles to be mutually agreed upon by the parties on a site-by-site basis in
+the Definitive Agreements (the “Pre-Closing Ringfencing”), such Pre-Closing Ringfencing to become effective and
+formally put in place at the Closing.
+
+The Purchase Agreement will contain customary provisions regarding
+(a) a separation plan based on mutually agreed separation principles, determined in good faith by the Parties on a site-by-site
+basis (the “Separation Plan”) and (b) the establishment and operation of a separation committee.
+
+The separation of the Transferred Businesses
+from the remaining Spirit businesses (the “Separation”) shall be effected in accordance with the Separation Plan,
+and the Parties shall work together in good faith to (i) structure the Separation to reduce or mitigate any potential negative
+or adverse tax consequences incurred by Spirit as a result of the Separation and (ii) implement the Separation in a timely and
+efficient manner.
+
+8
+
+|
+| Matter
+| Terms
+
+|
+|
+|
+Without duplication of any costs incurred in connection with the
+Pre-Closing Ringfencing, Spirit will bear all costs and expenses incurred by Spirit in connection with the preparation of the Separation
+Plan and implementation of the Separation in accordance with the Separation Plan (but will not reimburse any costs or expenses incurred
+by Airbus in connection with the preparation or implementation of the Separation Plan).
+
+Spirit
+shall be permitted to cooperate with Boeing in structuring the Separation, including by (A) providing Boeing with review, comment
+and consent rights with respect to any proposed steps and any and all agreements and other instruments to be executed or delivered
+in connection with the proposed Separation structure (including whether to structure any portion of the Separation as an asset or
+an equity sale for tax purposes) and any internal restructuring necessary to effect the Separation, in each case, prior to
+being finalized or executed, as applicable and (B) keeping Boeing reasonably apprised with respect to the status of the Separation
+and the transactions contemplated thereby.
+
+The Pre-Closing Ringfencing shall provide, as part of the Separation,
+for the ringfencing of confidential data of Airbus (including all Airbus Contract IP (as defined below) owned by or exclusively licensed
+to Airbus (only if such license is exclusive in all fields) and all Airbus Operational IP) (the “Airbus Data”)
+such that Spirit implements technical measures and policies (including logging/activity monitoring functionalities) to ensure that
+the Airbus Data cannot be accessed or viewed by employees, contractors or other staff of Spirit or Boeing other than (1) system
+administrators, (2) Spirit employees or contractors rendering services pursuant to any Continuing Contract (as defined below)
+or (3) with the prior written consent of Airbus or as otherwise required by the Definitive Agreements (such ringfencing, the
+“Data Separation”) (it being understood that any such system administrators, employees and contractors shall be
+subject to or covered by customary confidentiality provisions in a Continuing Contract, the applicable services agreements with Airbus
+or in the Definitive Agreements); provided that, nothing in the foregoing shall limit the rights provided to Spirit under
+Section 1.12 to retain copies of Airbus Data as necessary for fulfilling any contractual obligations it has under any
+Continuing Contract or as may be required by applicable law or regulation subject to ongoing confidentiality restrictions. The Purchase
+Agreement shall include as a condition to the Closing a requirement for the Data Separation to have been implemented in all material
+respects.
+
+9
+
+|
+| Matter
+| Terms
+
+| 1.8
+| Transaction
+Economics
+|
+Airbus will acquire from Spirit, on a cash-free and debt-free
+basis, (a) the Transaction Perimeter and (b) an amount in cash (the “Cash Amount”) equal to (i) if
+the Airbus Prestwick Business is excluded from the Transaction Perimeter, $559 million or (ii) if the Airbus Prestwick
+Business is included in the Transaction Perimeter, $[***], for nominal consideration of $1.00 subject to the working capital and
+other purchase price adjustments described below and adjustments for the Airbus Subang Assets and Xizi Interests to be agreed between
+the Parties prior to the Signing to reflect the fair market value of the Airbus Subang Assets and the Xizi Interests to the extent
+they are included within the Transaction Perimeter (the “Purchase Price”). The Parties shall use reasonable best
+efforts to determine the most efficient way to deliver the Cash Amount taking into account operational and tax and other applicable
+considerations (including with respect to the reducing or eliminating withholding and transfer taxes), which may include a structure
+whereby the Cash Amount is delivered by capitalizing entities within the Transaction Perimeter prior to the Closing.
+
+In connection with the Signing, the Parties shall agree on target
+levels of trade net working capital and the components thereof (including with respect to accounts receivable, accounts payable and
+inventory) across the Transaction Perimeter (including, to the extent the Airbus Prestwick Business and/or the Airbus Subang Assets
+are included within the Transaction Perimeter, with respect to the Airbus Prestwick Business and/or the Airbus Subang Assets, as
+applicable), with separate normalized targets for each of accounts receivable, accounts payable and inventory; provided, the
+targets for accounts receivable owing from Airbus shall be set to $0. The Purchase Price shall be subject to a customary purchase
+price adjustment (both upward and downward) to the extent actual net working capital deviates from such targets at Closing (subject
+to a customary 90 day post-closing true-up process).
+
+Between the Signing and the Closing, beginning on the date the
+Parties mutually agree is thirty (30) days prior to the anticipated Closing Date, Airbus shall have the right to perform quality
+review of all inventory within the Transaction Perimeter (including, if applicable, the Airbus Prestwick Business and/or the Airbus
+Subang Assets), as will be further set out in a customary access and information clause (e.g., at mutually agreeable times and places,
+not to disrupt Spirit’s business, at Airbus’s cost, expense and risk, and that Spirit may require the inventory review
+be conducted by a third party firm). It being further acknowledged that any such review, and the results or outcome therefrom, are
+not, in and of themselves, a condition to the Closing. The Purchase Price shall be subject to a full purchase price adjustment to
+the extent the value of such inventory deviates from a target value for such inventory mutually agreed between the parties prior
+to the signing of the Definitive Agreements.
+
+For the avoidance of doubt, the foregoing does not include any
+amounts to be repaid by Spirit to Airbus with respect to the Airbus-Spirit Loan Arrangements (as defined below), which shall be repaid
+by Spirit to Airbus at or prior to the Closing as further described in Section 1.17.
+
+The Parties acknowledge and agree that (1) the Cash Amount
+includes a payment by Spirit of $50 million allocable to the integration-related costs and expenses that Airbus may incur in connection
+with the Transactions and (2) there will be no further adjustment to the Purchase Price (and Spirit will not have any additional
+liability prior to, at or after the Closing) for any additional integration-related costs or expenses that Airbus may incur, including
+any non-recurring or other costs and expenses that may arise in connection with the transfer of the Airbus statements of work performed
+in any of the Transferred Businesses (including, if applicable, the Airbus Prestwick Business and the Airbus Subang Assets) to an
+Airbus facility or one or more of its third-party suppliers (it being understood that (x) separation costs incurred in connection
+with the Pre-Closing Ringfencing as set forth in Section 1.7 and (y) without duplication of any costs associated
+with the Pre-Closing Ringfencing, separation costs incurred by Spirit in connection with the preparation of the Separation Plan and
+implementing the Separation in accordance with the Separation Plan shall be borne by Spirit). For the avoidance of doubt, all transaction
+expenses incurred by Airbus (including costs and expenses of third-party advisors in connection with the development of separation
+principles and the review of ring-fencing documents prepared by Spirit) shall be borne by Airbus.
+
+10
+
+|
+| Matter
+| Terms
+
+| 1.9
+| Representation,
+Warranties and Covenants
+|
+The
+Definitive Agreements will contain customary representations, warranties and covenants (including
+customary interim operating covenants) (subject to customary materiality, knowledge, efforts
+and other standards) for a transaction of this size and nature, to be mutually agreed upon
+by the Parties; provided, that (a) no representations and warranties of Spirit
+shall survive the Closing and (b) Airbus’s sole recourse for any breach of representations
+and warranties will be to the R&WI Policy.
+
+| 1.10
+| Indemnities
+|
+Spirit and Airbus will provide customary indemnities for a transaction
+of this nature solely for the following matters, subject to the caps and survival periods referenced below. For the avoidance of
+doubt, the foregoing indemnity shall only become effective at the Closing. Prior to the Closing, the Parties’ sole recourse
+for breaches shall be limited to specific performance and to terminate the agreement (subject to customary matters that survive the
+termination, such as defined “Fraud” and for wilful breach of covenants).
+
+Spirit’s indemnity to Airbus shall be limited to:
+
+(a) any
+breach of Spirit’s covenants in the Definitive Agreements (subject to a mutually agreed cap and survival period for pre-Closing
+covenants);
+
+(b) any
+Excluded Liabilities (provided, that Spirit’s obligation to indemnify Airbus for Excluded Liabilities shall be subject
+to Airbus’s obligation to use commercially reasonable efforts to make available to Spirit information (including reasonable
+access to any Transferring Employees (as defined below) then employed by Airbus or one of its controlled affiliates) to the extent
+necessary for applicable personnel at Spirit to evaluate any claim and defend any third-party claim covered by the indemnity in this
+clause (b), subject to customary confidentiality obligations) and all liabilities to the extent not related to the Transaction Perimeter
+and, in the case of employment-related liabilities, any such liabilities to the extent relating to employees other than the
+Transferring Employees (as further set forth in Section 1.4 and Section 1.14 hereof);
+
+(c) any
+failure by Spirit to comply with its information and consultation obligations under TUPE save to the extent such failure arises directly
+or indirectly from any act or omission of Airbus (including, without limitation, any failure to provide “measures” information
+under regulation 13(4) of TUPE); and
+
+11
+
+|
+| Matter
+| Terms
+
+|
+|
+|
+(d) any
+retention, transaction or change in control bonus or similar arrangement established by Spirit prior to the Closing that is payable
+to any Transferring Employees on or after the Closing and that is not an Assumed Award (and the employer-paid portion of any taxes,
+social security, retirement and similar contributions with respect to the foregoing); and
+
+Airbus will provide Spirit an indemnity limited to the following
+matters:
+
+(A) any
+breach of Airbus’s covenants in the Definitive Agreements (subject to a mutually agreed cap and survival period for pre-Closing
+covenants);
+
+(B) any
+Assumed Liabilities (provided, that Airbus’s obligation to indemnify Spirit for Assumed Liabilities shall be subject
+to Spirit’s obligation to use commercially reasonable efforts to make available to Airbus information (including reasonable
+access to any employee then employed by Spirit or one of its controlled affiliates) to the extent necessary for applicable personnel
+at Airbus to evaluate any claim and defend any third-party claim covered by the indemnity in this clause (B), subject to customary
+confidentiality obligations); and
+
+(C) any
+failure by Airbus to comply with its obligations under TUPE save to the extent such failure arises directly or indirectly
+from any act or omission of Spirit.
+
+| 1.11
+| Vendor
+/ Supply Contracts
+|
+Between the Signing and the Closing, Spirit shall identify all
+vendor and supply contracts within the Transaction Perimeter that:
+
+(a) primarily
+relate to any Transferred Business (it being understood that, if requested by Airbus, the Parties shall cooperate and use commercially
+reasonable efforts to transfer such contracts to Airbus as part of the Transactions, with Spirit bearing any costs of obtaining consent
+to such transfer solely to the extent provided in Section 1.6));
+
+(b) relate
+to any Transferred Business (but not primarily) and one or more other Spirit customer(s) or statement(s) of work or entity
+expected to be retained after the Closing (it being understood that, if requested by Airbus, the Parties shall cooperate and use
+commercially reasonable efforts to split and transfer or replicate (as appropriate) the applicable portion of such contracts to Airbus
+as part of the Transactions, to the extent possible, with Spirit bearing any costs of obtaining consent to such transfer solely to
+the extent provided in Section 1.6)); or
+
+(c) do
+not relate to any Transferred Business (it being understood that such contracts shall be excluded from the Transactions and, if applicable,
+Spirit shall use commercially reasonable efforts to transfer them out of the Transaction Perimeter (at Spirit’s sole expense)).
+
+12
+
+|
+| Matter
+| Terms
+
+|
+|
+|
+For the avoidance of doubt, to the extent third party consent
+is required in connection with any of the transfers contemplated by sub-paragraphs (a), (b) and (c) above, Section 1.6 shall apply.
+
+To the extent any vendor or supply contract (or part thereof)
+is not transferred to Airbus in accordance with this Section 1.11, such contract (or part thereof) shall be retained
+by Spirit following the Closing and the parties will enter into an agreement to provide Airbus with the benefits and burdens of such
+contract as described in Section 1.6 above.
+
+| 1.12
+| Intellectual
+Property
+|
+Subject
+to the terms and conditions outlined in the applicable contract between Airbus and Spirit or any research and technology contract
+or collaboration agreement to which Airbus and Spirit are parties (including, but not limited to, the Wing of Tomorrow and Fuselage
+of Tomorrow programs) (each such research and technology contract and collaboration agreement, an “Airbus R&T Agreement”
+and each such contract or agreement (including any Airbus R&T Agreements), and all related statements of work or work package
+agreements, addenda or supplements, an “Airbus Contract”)3,
+as between Spirit and Airbus, Airbus will retain any rights in any intellectual property granted or expressly allocated to Airbus
+in such Airbus Contract (“Existing IP Rights”) or that Airbus otherwise owns under such Airbus Contract (e.g.,
+pre-existing Airbus IP, IP that Airbus provided to Spirit under the contract, IP developed under an Airbus Contract that
+Spirit has assigned to or agreed to assign to Airbus under that Airbus Contract, etc.) (“Airbus Owned IP”
+and together with Existing IP Rights, “Airbus Contract IP”). After the Closing and subject to any Continuing Contract,
+Airbus will have no obligation to provide a license back to Spirit of any Airbus Contract IP.
+
+| | 3 | For the avoidance of doubt, in the event the Airbus Prestwick
+Business is sold to a third-party acquirer, Spirit shall assign or otherwise convey to such third-party acquirer Spirit’s rights
+and obligations under any Airbus Contract that is transferred to such third-party acquirer in connection with the acquisition of the
+Airbus Prestwick Business, but the terms of such Airbus Contract (including Airbus’ rights in any intellectual property granted
+or expressly allocated to Airbus in such Airbus Contract or that Airbus otherwise owns under such Airbus Contract) shall remain the same.
+
+13
+
+|
+| Matter
+| Terms
+
+|
+|
+|
+Without limiting the scope of any Airbus Contract IP, the Transaction
+Perimeter will include any and all intellectual property (other than trademarks or domain names) owned by Spirit that was exclusively
+developed by Spirit for use, and is exclusively used by Spirit, in the design, development, manufacture, configuration, assembly,
+analysis, testing, certification, maintenance, support or refurbishment of Airbus products or components in connection with Spirit’s
+performance of an Airbus Contract, in each case (i) as of the date of the term sheet and/or (ii) as of the Closing, including
+(A) all Definition Dossier (as defined below) and (B) the intellectual property set forth in Annex 1 hereto (collectively,
+the “Airbus Operational IP”4)5. Without limiting the foregoing, the Parties will undertake
+reasonable and good faith efforts to list any and all Airbus Operational IP to be transferred to Airbus in a schedule to the appropriate
+Definitive Agreement consistent with the examples set forth on Annex 1. For the avoidance of doubt and notwithstanding anything
+in this paragraph or this term sheet to the contrary, the parties acknowledge and agree that “Airbus Operational IP”
+is not intended to, does not, and will not, include any Spirit Background IP. After the Closing and subject to any Continuing Contract,
+Airbus will have no obligation to provide a license back to Spirit of any Airbus Operational IP. For purposes of this provision,
+(x) “Definition Dossier” means the technical data and documents which freeze or establish (as applicable)
+the design, manufacture or the validation criteria and process, of an aircraft or a product by means of a drawing set and technical
+specification/standard, taking into account the applicable certification requirements and (y) “Spirit Background IP”
+means any intellectual property conceived, developed, or acquired by Spirit prior to or outside the scope of an Airbus Contract,
+even if conceived, developed, or acquired during the term of such Airbus Contract.
+
+Airbus
+will receive all physical manifestations (e.g., schematics, documentation, tooling, models, demonstrators, jigs, molds) of Airbus
+Contract IP owned by or exclusively licensed to Airbus (only if such license is exclusive in all fields) and Airbus Operational
+IP that are in Spirit’s possession; provided that Spirit can retain copies to the extent necessary for (and only for the purpose
+of) fulfilling any contractual obligations it has under any Continuing Contract or as may be required by applicable law or regulation.
+Spirit shall keep any retained copies confidential.
+
+Spirit will retain ownership of all IP (other than trademarks
+and domain names) owned by Spirit (“Spirit IP”) or licensed to Spirit by a third party (“Third Party
+IP”) that is used, in each case (i) as of the date of the term sheet and/or (ii) as of the Closing, for the operation
+of any Transferred Business, including to perform the Airbus work packages included in the Transferred Businesses (each an “Airbus
+WPA” and collectively, the “Airbus WPAs”)6 (such IP, “Specified IP”),
+subject to the grant of a license by Spirit to Airbus at the Closing on the terms described below (such license shall include, to
+the extent Spirit has the appropriate rights and Airbus so elects, a sub-license of any Third Party IP). All other Spirit IP or Third
+Party IP shall be retained by Spirit and not licensed to Airbus. For the avoidance of doubt, this license will supersede and take
+precedence over any license in any other agreement between Airbus and Spirit for such Specified IP, but shall not diminish Airbus’s
+Existing IP Rights. For the avoidance of doubt, Specified IP does not include Airbus Contract IP or Airbus Operational IP.
+
+| | 4 | For the avoidance of doubt, to the extent any intellectual property
+qualifies as both Existing IP Rights and Airbus Operational IP hereunder, such intellectual property shall be deemed Airbus Operational
+IP.
+
+| | 5 | Where the Airbus Prestwick Business is included in the Transaction
+Perimeter, Airbus Operational IP shall include any and all intellectual property (other than trademarks or domain names) owned by Spirit
+that was exclusively developed by Spirit for use, and is exclusively used by Spirit in, the Airbus Prestwick Business, in each case (i)
+as of the date of the term sheet and/or (ii) as of the Closing (collectively, the “Airbus Prestwick IP”). Where the
+Airbus Prestwick Business is sold to a third-party acquirer, the Airbus Prestwick IP shall be transferred to such third-party acquirer
+as part of the sale of the Airbus Prestwick Business.
+
+| | 6 | Where the Airbus Prestwick Business is sold to a third-party
+acquirer, (i) Spirit will assign or otherwise convey to such third-party acquirer Spirit’s rights and obligations (but excluding
+any rights to any Development IP (as defined below)) under each applicable Airbus Contract that contains an obligation requiring Airbus
+to invite Spirit to any tender process involving Spirit intellectual property (that is not Airbus Prestwick IP) developed or utilized
+in connection with an applicable Airbus R&T Agreement (such IP, “Development IP”) and (ii) Spirit shall grant
+such acquirer rights sufficient for such acquirer to exercise its rights and obligations under such Airbus Contract if and when required
+for such third-party acquirer to perform under such Airbus Contract, including (x) participating in the relevant tender process if it
+so elects and (y) providing Airbus with a license to such Development IP to the extent provided by and in accordance with the terms of
+the applicable Airbus Contract.
+
+Where the Airbus Prestwick Business is included
+in the Transaction Perimeter, Spirit shall retain the applicable Airbus Contract and the license granted to Airbus with respect to Development
+IP contained in such applicable Airbus Contract shall continue in accordance with the terms of such applicable Airbus Contract; provided,
+that Spirit shall have no obligation under such Airbus Contract except for such license grant, and Airbus’ sole obligation to Spirit
+in connection with such license grant shall be the payment of a royalty in accordance with the terms of such Airbus Contract (it being
+understood that all other obligations of both parties, including Airbus’ obligation to invite Spirit to any tender process, shall
+not apply).
+
+For the avoidance of doubt, regardless of whether
+the Airbus Prestwick Business is acquired by a third party or Airbus, the Development IP shall remain owned by Spirit.
+
+14
+
+|
+| Matter
+| Terms
+
+|
+|
+|
+The
+terms of any new or modified license granted from Airbus to Spirit in connection with any
+Airbus Contracts that are not included in the Transferred Business or that are otherwise
+entered into in connection with Transactions with performance beginning or continuing (in
+the case of an amendment to an Airbus Contract) after the Closing (a “Continuing
+Contract”) will be as set forth in such Continuing Contract.
+
+Any determination as to the allocation of IP pursuant to the foregoing
+categories shall be determined in good faith by Spirit based on contemporaneous books and records as of the date of this term sheet
+and after reasonable and good faith consultation, with escalation to senior management as necessary or appropriate.
+
+Terms of License from Spirit to Airbus:
+
+·
+License Grant: As of the Closing, Spirit shall grant to Airbus a non-exclusive, perpetual, non-transferable (except as provided
+below), non-sublicensable (except as provided below), worldwide, irrevocable and royalty-free license to use any Specified IP in
+connection with the operation and further development of any Transferred Business, as follows: Specified IP can be used (i) to continue
+performance of existing Airbus WPAs and (ii) in the design, development, manufacture, configuration, assembly, testing, analysis,
+testing, certification, maintenance, support or refurbishment of, or related services and support network for, the Airbus products
+or components that are the subject of an existing Airbus WPA and any future version, iteration and/or derivative of such products
+or components within the same Airbus program family to which such Airbus WPA relates (each such use, a “Permitted Use”).
+With respect to any Third Party IP, such license shall be subject to the terms and conditions under which such Third Party IP is
+licensed to Spirit (including the payment of any pro-rata royalties or other fees for the use of such Third Party IP).
+
+Notwithstanding anything to the contrary, Airbus shall
+not be construed as in violation of the foregoing license grant by virtue of any Airbus employee’s or contractor’s unaided
+use of any Specified IP in connection with any Airbus product or component (including outside the Permitted Use). For purposes hereof,
+a person’s use will be deemed unaided if (i) such use is made without reference to any physical documentation containing, or
+other embodiments of, the relevant Specified IP and (ii) such Specified IP was not intentionally memorized by such employee or contractor
+for such use; provided that the foregoing shall not constitute a patent license.
+
+15
+
+|
+| Matter
+| Terms
+
+|
+|
+|
+·
+Sublicensing: The Specified IP will be sublicensable only to: (i) Airbus controlled
+subsidiaries (for so long as they remain controlled subsidiaries) in connection with the
+Permitted Use; (ii) Airbus customers, to the extent necessary to utilize products or services
+purchased from Airbus; and (iii) third-party contractors or suppliers, solely for the purpose
+of, and to the extent necessary for, providing services or components to Airbus in connection
+with the Permitted Use. “Control” means (including the term “controlled”)
+means, with respect to a person, the right to, directly or indirectly, direct or cause the
+direction of the management and policies of another person, whether through the ownership
+of a majority of the outstanding voting securities of such person, by contract or otherwise.
+
+·
+Enforcement and Prosecution: Spirit will retain the sole right (but no obligation) to prosecute, maintain and enforce the
+Specified IP.
+
+·
+Confidentiality of Trade Secrets: To the extent any trade secrets are included within the Specified IP, Airbus shall maintain
+such trade secrets in confidence, and shall not disclose such trade secrets to any third party other than (i) permitted sublicensees,
+or (ii) as required by applicable law or legal process, subject to protective order where available.
+
+·
+Assignment: Airbus may assign, in whole or in part, the license rights under the Specified IP to any (i) Airbus controlled
+subsidiary and (ii) third party that acquires all or substantially all of businesses of Airbus that utilize the relevant portion
+of Specified IP, whether by asset sale, merger, share sale or otherwise.
+
+·
+Delivery: The license will not include any obligation for Spirit to provide Airbus any data, know-how, materials or tangible
+embodiments of the Specified IP, except to the extent reasonably required to permit Airbus’s use of such Specified IP and not
+already in Airbus’s possession.
+
+| 1.13
+| Employees
+|
+Employees
+expected to transfer to Airbus in connection with the Transactions (the “Business
+Employees”) will include:
+
+(a)
+those employees (excluding inactive employees, to the extent permitted by applicable law, but including employees on family
+leave) who the Parties agree will automatically transfer to Airbus under the Transfer of Undertakings (Protection of Employments)
+or any applicable similar law (“TUPE”) in connection with the Transactions, as being wholly or mainly assigned
+to the Transferred Business within the meaning of TUPE;
+
+(b)
+in the case of employees located in Belfast, Northern Ireland, (i) those employees (other than Belfast Engineers (as defined
+below)) primarily dedicated to the WPU or the A350 (it being understood that, in addition to the foregoing, Spirit or the purchaser
+of the Remaining Belfast Business, as applicable, will also provide labor support through a TSA, secondment, or comparable arrangement
+for a period of time to be agreed) and (ii) all engineers and skilled laborers located in Belfast, Northern Ireland (“Belfast
+Engineers”) that the Parties shall mutually identify prior to Signing as being reasonably necessary for the continued operations
+of the Belfast Airbus Business following the Closing (it being understood that such discussions shall be initially facilitated by
+a list of Belfast Engineers prepared by Spirit that Spirit determines are reasonably necessary for the continued operations of the
+Belfast Airbus Business based on work performed over the prior 12 month period and work projected to be done over the following 12
+month period);
+
+16
+
+|
+| Matter
+| Terms
+
+|
+|
+|
+(c)
+in the case of employees not located in Belfast, Northern Ireland:
+
+(i)
+those employees who are primarily dedicated (in the case of engineering employees, based on work performed over the 12-month
+period prior to the date hereof) to the Transferred Business and are actively employed by an entity in the Transaction Perimeter
+(a “Transferring Entity”) on the Closing Date (other than, solely for purposes of this clause (c)(i), any employees
+primarily dedicated to activities under the A220 Pylon Contract);
+
+(ii)
+those employees who are primarily dedicated (in the case of engineering employees, based on work performed over the 12-month
+period prior to the date hereof) to (A) the Transferred Business (other than, solely for purposes of this clause (c)(ii)(A), any
+employees primarily dedicated to activities under the A220 Pylon Contract), (B) manufacturing activities under the A220 Mid-Fuselage
+Contract or (C) design, development and industrialization activities under the A220 Pylon Contract, and are not covered by (a) or
+(c)(i) and are actively employed by Spirit on the Closing Date; and
+
+(d)
+those employees who are not covered by (a), (b) or (c) above, but are identified in a schedule to the Purchase Agreement (which
+schedule may be updated by mutual agreement of the parties after Signing to add employees similar to those listed on the schedule)
+as being eligible for an offer of employment from Airbus (which process will address making alternative employees available in the
+event that an employee who is originally identified declines Airbus’s offer)
+
+(those Business Employees who commence employment
+with Airbus, the “Transferring Employees”). Notwithstanding the foregoing and for the avoidance of doubt, no engineer
+or skilled laborer primarily (i) in Belfast, dedicated to research and technology or (ii) in Prestwick, dedicated to the
+Aerospace Innovation Centre, in each case, will be deemed a Business Employee.
+
+17
+
+|
+| Matter
+| Terms
+
+|
+|
+|
+In
+the case of any employee of a Transferring Entity who is not a Business Employee, prior to
+the Closing Date, Spirit shall use commercially reasonable efforts to transfer the employment
+of such employee to a retained Spirit entity. The Parties will cooperate in good faith
+to agree on and implement alternative arrangements to address employees who are not transferred
+prior to the Closing Date pursuant to the foregoing sentence.
+
+To the extent lawful, the Parties will cooperate
+in good faith in relation to (1) the supply of information by the other party relating to employee matters, including Spirit’s
+and Airbus’s obligations in relation to the Business Employees under TUPE and furthermore as may be required in order to ensure
+a smooth transfer of employment of the Business Employees and (2) any requests to either party for information or queries raised
+from any employee representatives, unions or works councils or labor offices in relation to the Transactions. Prior to the Closing
+Date, Spirit will, and Airbus will cooperate with Spirit to, complete any necessary consultations and obtain any necessary approvals
+of any unions or works councils in respect of the Business Employees in connection with the Transactions, and Airbus shall promptly
+provide such cooperation in respect of such approval(s) or consultation(s) as Spirit may reasonably request.
+
+Spirit will cause all Spirit equity compensation
+and similar awards held by Transferring Employees and issued prior to the signing of the Definitive Agreements to become immediately
+and fully vested on the Closing Date, and Spirit will be responsible for the employer-paid portion of any taxes, social security,
+retirement or similar contributions with respect to the foregoing. The Definitive Agreements will contain customary interim operating
+covenants with respect to employee matters, including covenants providing guardrails in favour of Airbus with respect to equity compensation,
+retention, transaction, change in control or other bonuses or compensation arrangements paid or granted to employees within the Transaction
+Perimeter between the Signing and the Closing.
+
+| 1.14
+| Pensions;
+Unfunded Employee Liabilities
+|
+All
+obligations relating to any pension, deferred compensation, jubilee, long-term, termination
+indemnity, gratuity, vacation, paid time off or similar plan sponsored by Spirit (or to which
+Spirit is required to contribute), including accrued benefits in the Short Brothers Pension
+Scheme, shall, to the extent relating to any Transferring Employee, be assumed by Airbus,
+and, to the extent relating to any other employee of Spirit, remain with Spirit, and each
+Party shall indemnify the other Party with respect thereto.
+
+18
+
+|
+| Matter
+| Terms
+
+|
+|
+|
+The accrued benefits in the Short Brothers Pension Scheme shall
+(with a corresponding proportion of its assets) be transferred to a UK defined benefit pension scheme, which is sponsored by an existing
+Airbus group company, to be designated by Airbus prior to Signing (the “Designated Pension Scheme”) on a share
+of fund basis and calculated as at the Closing Date using assumptions consistent with what is, at Signing, the then-most recent signed
+actuarial valuation of the Short Brothers Pension Scheme, except as otherwise set forth below. Any assumptions utilised in that valuation
+which relate to discount rates and inflation rates (or are otherwise inflation-dependent) will be adjusted to reflect any differences
+in market conditions from the effective date of that then-most recent signed valuation until the Closing Date. To the extent that
+prior to Signing either Party proposes a change to any of the other assumptions utilised in that valuation, the Parties will work
+together in good faith in order to mutually agree, each acting reasonably, a replacement to that assumption for the purposes of the
+Transaction (the automatic and any consensual adjustments described in this paragraph being collectively the “SBPS Adjustments”).
+Like review and adjustment provisions shall apply, for the purposes of the purchase price adjustment described below, to the assumptions
+exhibited to this term sheet at Exhibit B (the “Exhibit B Assumptions”) with such adjustments being the “Exhibit
+B Scheme Adjustments”.
+
+The value of the assets to be transferred from the Short Brothers
+Pension Scheme to the Designated Pension Scheme, based on the above share of fund approach, shall be adjusted (whether upwards or
+downwards) in line with the change in the value of the Short Brothers Pension Scheme’s assets between the Closing Date and
+a date, to be mutually agreed by the Parties, when such assets will be received by the Designated Pension Scheme.
+
+In the event that any unfunded or under-funded employee liabilities
+in respect of Transferring Employees (other than Beckmann liabilities) (including, without limitation, those described in the immediately
+preceding paragraph) transfer to Airbus, whether automatically pursuant to TUPE, as a result of Airbus’s acquisition of a Transferring
+Entity or otherwise, such liabilities (or, as the case may be, the extent of such under-funding (as determined below)) will be treated
+as indebtedness, and Airbus will be entitled to a full purchase price adjustment in respect of such liabilities (and the employer-paid
+portion of any taxes, social security, retirement or similar contributions with respect thereto).
+
+To the extent applicable, the amount of any liability in connection
+with the foregoing shall be agreed in advance with any trustee or other entity responsible for administering any applicable pension,
+deferred compensation, jubilee, long-term, termination indemnity, gratuity, vacation, paid time off or similar plan sponsored by
+Spirit; provided, however, such agreed amount shall be adjusted by the Parties in good faith to reflect any changes in liabilities
+and asset performance (each to the extent applicable) from and after the valuation date used for the purposes of such agreement with
+any applicable trustee or other entity until the Closing Date.
+
+The purchase price adjustment in relation to the bulk transfer
+from the Short Brothers Pension Scheme shall be determined as at the Closing Date as (A minus B), where A and B are calculated as
+follows:
+
+A is the pension scheme liabilities to be assumed
+as at the Closing Date, valued in accordance with (i) the Exhibit B Assumptions, in the case of the non-demographic assumptions,
+and (ii) the demographic assumptions utilised for the purposes of the most recent signed actuarial valuation of the Short Brothers
+Pension Scheme at Signing, adjusted if applicable to reflect the Exhibit B Scheme Adjustments (and/or, as the case may be, the SBPS
+Adjustments).
+
+19
+
+|
+| Matter
+| Terms
+
+|
+|
+|
+B
+is the value of the Short Brothers Pension Scheme assets to be transferred to the Designated
+Pension Scheme as at the Closing Date based on the share of fund approach.
+
+Either Party may prior to Signing request a
+review of the quantification of Transferring Employees’ pension liabilities falling within A, after the date of the signing
+of this term sheet, including once Airbus has had an opportunity to assess the level of Defined Benefit liabilities the Transferring
+Employees will have. Should either Party make such a request the Parties will work together in good faith in order to mutually agree,
+each acting reasonably, what the value of those Defined Benefit liabilities is for the purposes of the Transaction.
+
+Notwithstanding
+the above, this Section 1.14 shall not apply to any Beckmann liabilities.
+
+| 1.15
+| Sanctions
+and Export Control
+| Spirit
+shall use commercially reasonable efforts to: (a) communicate to Airbus the export control classification numbers in relation
+to all assets referred to in Section 1.2 above; (b) inform Airbus if any asset is controlled under
+sanctions and export control laws and communicate to Airbus the corresponding authorisations; and (c) provide all information
+and documents necessary for Airbus to obtain all required authorisations in connection with the foregoing.
+
+| 1.16
+| Transitional
+and Ongoing Arrangements
+|
+The
+Parties shall enter into the following agreements at the Closing:
+
+(a)
+a transitional service agreement (“TSA”) under which Spirit will provide certain services (including, without
+limitation, IT, finance, human resources, knowledge transfer and procurement services) to be agreed between the Parties in good faith
+to Airbus for an initial term of up to 24 months (with a unilateral right for Airbus to extend for an additional 12 months), under
+which Spirit shall provide all services under the TSA at Spirit’s actual internal and external costs and each Party shall be
+responsible for its own TSA exit and migration costs; provided, that any services provided beyond the initial term shall be
+provided on a “cost-plus” basis; provided, further, that Spirit’s liability under any such TSA shall
+be capped at the fees actually paid for such services during the term of the TSA;
+
+(b)
+the Belfast Agreement; and
+
+(c)
+an amendment to the A220 Pylon Contract to convert Airbus’s and Spirit’s contractual arrangement thereunder to
+a “build to print” contract, which amended A220 Pylon Contract shall remain in effect for a transitional period of time
+(to be mutually agreed upon by the Parties) following Closing.
+
+20
+
+|
+| Matter
+| Terms
+
+|
+|
+|
+Additionally,
+the Parties will discuss whether Spirit or the third-party buyer of the Remaining Belfast
+Business will enter into a potential services agreement with Airbus under which Spirit or
+such third party may provide certain services to Airbus on an on-going basis (on terms to
+be mutually agreed by the Parties).7
+
+If the Airbus Prestwick Business is included
+in the Transaction Perimeter, the Parties shall cooperate in good faith to transfer the Non-Airbus Prestwick Business to a retained
+entity (with the separation costs associated with such transfer to be borne in accordance with the principles otherwise set forth
+in this term sheet), including, without limitation, by entering into a reverse TSA under which Airbus shall provide certain services
+(the scope of such services to be determined in good faith by the Parties) under such reverse TSA to such retained entity at Airbus’s
+actual internal and external costs and each Party shall be responsible for its own TSA exit and migration costs; provided
+that Spirit shall be responsible for any severance or redundancy costs arising from such transfer, and any costs related to the relocation
+of any Non-Airbus Prestwick Business assets; provided further that Airbus’s liability under any such reverse TSA shall
+be capped at the fees actually paid for such services during the term of such reverse TSA.
+
+Except as otherwise expressly set forth in this
+term sheet, between Signing and Closing, the Parties shall work together in good faith to identify, and determine the appropriate
+post-Closing treatment of, any other existing agreements between Airbus and any entity retained by Spirit.
+
+| 1.17
+| Amounts
+Owing from Spirit to Airbus
+|
+Any
+loans, advance payments, similar arrangements (collectively, “Airbus-Spirit Loan
+Arrangements”) and liquidated damages not disputed by Spirit in good faith owing
+from Spirit to Airbus as of the Closing (including, for the avoidance of doubt, any such
+Airbus-Spirit Loan Arrangements or liquidated damages arising between the Signing and the
+Closing not disputed by Spirit in good faith) shall be paid in full as of the Closing, subject
+to the terms set forth herein (the “Outstanding Amounts”), with any disputed
+liquidated damages to be resolved through a mutually agreed dispute resolution process and
+paid in accordance therewith.
+
+As of March 31, 2024, the amount of liquidated
+damages that Airbus claims is owed by Spirit to Airbus is $[***]. Airbus hereby waives any claims to other liquidated damages
+owed to it by Spirit through March 31, 2024, but solely to the extent arising from late delivery or other issues that are known and
+quantifiable or should reasonably be known and quantifiable by Airbus (including, without limitation, issues that are known and quantifiable
+or should reasonably be known and quantifiable by any member of Airbus’s legal, procurement or quality teams or any member
+of Airbus management) as of the date of this term sheet. As of the date hereof, the amount of Airbus-Spirit Loan Arrangements payable
+by Spirit to Airbus is $122,062,500. Airbus hereby waives any claims to other outstanding amounts under Airbus-Spirit Loan Arrangements
+through the date hereof.
+
+| | 7 | Such
+services agreement, together with any real estate lease, to be entered into between the Signing
+and the Closing such that these contracts will transfer with the Transferred Business.
+
+21
+
+|
+| Matter
+| Terms
+
+|
+|
+|
+Prior
+to the execution of the Definitive Agreements, Airbus and Spirit will negotiate in good faith,
+consistent with their prior commercial practices, to determine and agree upon the amount
+of liquidated damages that Spirit owes to Airbus as of the date that is 60 days prior to
+the Signing. The Definitive Agreements shall state the agreed-upon amount of outstanding
+liquidated damages payable by Spirit to Airbus as of the date that is 60 days prior to the
+Signing. Airbus will waive any claims to amounts of liquidated damages through the date that
+is 60 days prior to the Signing that are not set forth in the Definitive Agreements, but
+solely to the extent arising from late delivery or other issues that are known and quantifiable
+or should reasonably be known and quantifiable by Airbus (including, without limitation,
+issues that are known and quantifiable or should reasonably be known and quantifiable by
+any member of Airbus’s legal, procurement or quality teams or any member of Airbus
+management) as of the date of the Definitive Agreements.
+
+From and after the date hereof, any additional
+claimed liquidated damages must be identified by Airbus in good faith within 30 days following the end of the month in which Airbus
+becomes aware of the occurrence of such damages and is able to quantify such damages. Promptly following each notice from Airbus
+to Spirit of claimed liquidated damages, Airbus and Spirit will negotiate in good faith, consistent with their prior commercial practices,
+to determine and agree upon the actual amount of liquidated damages that Spirit owes to Airbus. Any amounts identified within 30
+days prior to Closing will be treated as disputed for purposes of this Section 1.17.
+
+| 1.18
+| Release
+| The
+Definitive Agreements shall include a customary release of Spirit and Airbus by the other party of all potential claims arising from
+any matters occurring prior to the Closing, except with respect to obligations under the Definitive Agreements and other commercial
+arrangements negotiated between the parties and entered into at the Closing (or that the Parties otherwise mutually agree should
+remain in place following the Closing, such as the amended A220 Pylon Contract).
+
+| 2.
+| CONDITIONS,
+DOCUMENTATION AND PROCESS
+
+| 2.1
+| Definitive
+Agreements
+|
+The
+execution of the definitive agreements with respect to the Transactions, including a purchase
+agreement (“Purchase Agreement”), the TSA, the rTSA, and other documents
+(collectively, the “Definitive Agreements”), will be subject to and conditioned
+upon (x) the execution by Spirit AeroSystems Holdings, Inc. (“Spirit Holdings”)
+and Boeing of definitive agreements relating to the acquisition of Spirit Holdings by Boeing
+(the “Spirit-Boeing Transaction”) and (y) the completion to the satisfaction
+of Airbus, in accordance with Section 2.3 below, of its due diligence.
+
+Spirit and its advisers will prepare the
+first draft of the Definitive Agreements, each of which shall be governed by New York law.
+
+22
+
+|
+| Matter
+| Terms
+
+| 2.2
+| Conditions
+to Closing
+|
+The
+Closing will be subject to and conditioned upon only the following closing conditions:
+
+(a)
+the receipt of all applicable governmental and regulatory consents, approvals and clearances in relation to the Transactions;
+
+(b)
+no order, legal prohibition or injunction preventing the consummation of the Transactions;
+
+(c)
+the Parties complying with their pre-Closing covenants in all material respects;
+
+(d)
+the payment in full of the Outstanding Amounts as described in Section 1.17 (including the full payoff and termination
+of the Airbus-Spirit Loan Arrangements);
+
+(e)
+the Spirit-Boeing Transaction closing substantially concurrently with the Transactions;
+
+(f)
+there being no “Material Adverse Change” in the Transferred Business after the signing date and before the Closing;
+and
+
+(g)
+Spirit shall have implemented the Data Separation in all material respects.
+
+In addition, the parties acknowledge and agree that the closing
+with respect to each portion of the Transaction Perimeter (including, if applicable, the Airbus Prestwick Business and Airbus Subang
+Assets) shall occur substantially simultaneously with, and shall be conditioned upon, the closing of each other portion of the Transaction
+Perimeter (such that the entire Transferred Business is acquired globally at the same time).
+
+| 2.3
+| Due
+Diligence
+|
+Airbus
+will continue to progress its due diligence exercise in relation to the Transaction Perimeter,
+including in relation to financial, tax, operational, IT, legal, anti-corruption, sanctions
+and export control, HR and environmental matters and will use commercially reasonable efforts
+to complete such due diligence as promptly as practicable. Spirit agrees to use commercially
+reasonable efforts to give Airbus (and its professional advisers) access to such personnel,
+documents, books, accounts and records relating to the Transaction Perimeter as reasonably
+necessary for Airbus to complete such due diligence exercise, in each case in a manner mutually
+agreed and subject to any commercially reasonable procedures implemented by Spirit.
+
+The provision of all documentation and information
+will be subject to the terms of the Mutual Confidentiality Agreement among The Boeing Company, Spirit Holdings and Airbus SE, dated
+April 9, 2024 (the “Confidentiality Agreement”), and the Amended Clean Team Agreement between Airbus SE and Spirit
+AeroSystems, Inc., dated April 2, 2024.
+
+| 2.4
+| Regulatory
+Filings
+| The
+Parties shall use their reasonable best efforts to prepare and file, to the extent required under applicable law, (a) an appropriate
+filing of a Notification and Report Form pursuant to the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, with respect
+to the transactions contemplated by this term sheet no later than 20 business days after the earlier of Airbus’s completion
+of due diligence and the execution of Definitive Agreements and (b) all other initial filings, notices and reports (or, where applicable,
+drafts thereof) pursuant to all other applicable antitrust laws or foreign investment laws with respect to the transactions contemplated
+by this term sheet as promptly as reasonably practicable after the earlier of Airbus’s completion of due diligence and the
+execution of Definitive Agreements.
+
+23
+
+|
+| Matter
+| Terms
+
+| 3.
+| MISCELLANEOUS
+
+| 3.1
+| Confidentiality
+| The
+existence and contents of this term sheet shall be subject to the terms and conditions contained in the Confidentiality Agreement.
+
+| 3.2
+| Expenses
+| Whether
+or not Definitive Agreements are entered into or the Closing occurs, each Party shall bear its own internal and external costs, expenses
+and charges, including its own professional advisers’ costs and expenses, in each case incurred in connection with the Transactions,
+the preparation and negotiation of this term sheet and/or other transaction documentation.
+
+| 3.3
+| Governing
+Law
+| The
+construction, validity and performance of this term sheet and all non-contractual obligations (if any) arising from or connected
+with this term sheet shall be governed by the laws of New York.
+
+| 3.4
+| Good
+Faith Negotiations; Cooperation
+|
+The
+Parties agree to negotiate the Definitive Agreements in good faith with the goal of permitting
+Boeing and Spirit Holdings to complete the Spirit-Boeing Transaction prior to the outside
+date set forth in the definitive agreement for such transaction. In connection with the foregoing,
+it is acknowledged and agreed that the parties shall not attempt to modify the terms expressly
+set forth herein substantively (or otherwise in a manner inconsistent with the substantive
+intent expressed in such terms) in connection with the negotiation or drafting of the Definitive
+Agreements. For the avoidance of doubt, the closing of the transactions contemplated under
+this term sheet is subject to entry into mutually agreed Definitive Agreements amongst the
+parties hereto documenting the matters contemplated herein.
+
+Each Party agrees to use commercially reasonable efforts to cooperate
+with the other in furtherance of the Transactions, including by (a) promptly providing to each governmental entity any non-privileged
+information and documents requested by such governmental entity in connection with any applicable antitrust or competition law, foreign
+investment law or other regulatory approvals necessary for the Transactions and (b) keeping each other reasonably apprised of
+the status of matters relating to the completion of the Transactions.
+
+Upon the parties’ execution of this term sheet and the Spirit-Boeing
+Transaction, each Party agrees to issue mutually agreeable press release(s) relating to the matters contemplated herein
+
+24
+
+| /s/ Christoph Seulen
+|
+
+|
+|
+
+| Christoph Seulen, for and on behalf
+of
+|
+
+| Airbus SE
+|
+
+|
+|
+
+| Dated
+| June 30 2024
+|
+
+|
+|
+
+| /s/ Irene Esteves
+|
+
+|
+|
+
+| Irene Esteves, for and on behalf of
+|
+
+| Spirit AeroSystems, Inc.
+|
+
+|
+|
+
+| Dated
+| June 30 2024
+|
+
+[Signature Page to Term
+Sheet]
+
