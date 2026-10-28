@@ -1,0 +1,3 @@
+PO,supplier,contract_date,buyer_entity,purpose,contract_amount_USDm,cash_paid_USDm,remaining_payment_trigger,invoice_status
+RF-118,Northline separation works,2024-07-15,INC,ring-fencing production equipment and utilities,9.5,2,7.5 at transaction completion,deposit acknowledged; no final invoice yet
+IT-064,Harbor systems services,2024-07-29,INC,migration and separation of seller IT access,14,0,14.0 at transaction completion,signed fixed price order; performance before completion
