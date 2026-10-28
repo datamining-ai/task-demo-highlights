@@ -1,0 +1,24 @@
+schema_version = "1.4"
+artifacts = ["/work/results.json", "/work/solve.py"]
+[task]
+name = "datago/chain-calibration-l3-s20261021"
+description = "Original chain-calibration scientific workflow with numerical verification."
+keywords = ["scientific-computing", "chain-calibration"]
+[metadata]
+difficulty = "candidate-unverified"
+domain = "mathematical-sciences"
+field = "applied-mathematics"
+[agent]
+timeout_sec = 1800.0
+[verifier]
+timeout_sec = 120.0
+environment_mode = "separate"
+[verifier.environment]
+network_mode = "no-network"
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 2048
+storage_mb = 2048
+gpus = 0
+network_mode = "no-network"
