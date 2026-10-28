@@ -1,0 +1,117 @@
+
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [****], HAS BEEN OMITTED BECAUSE IT IS BOTH (I) NOT MATERIAL AND (II) THE TYPE THAT THE REGISTRANT TREATS AS PRIVATE OR CONFIDENTIAL.
+
+MEMORANDUM OF AGREEMENT
+
+between
+
+THE BOEING COMPANY
+
+and
+
+Spirit AeroSystems, Inc.
+
+737 Production Rate Advance
+
+MOA-65C00-9900
+
+This MEMORANDUM OF AGREEMENT (“MOA”), is effective as of April 18, 2024, (the “Effective Date”) by and between The Boeing Company (“Boeing”), a Delaware corporation, and Spirit AeroSystems, Inc. (“Seller”), a Delaware corporation. Boeing and Seller sometimes are referred to herein individually as a “Party” and collectively as the “Parties.”
+
+RECITALS
+
+A.The Parties have been in discussions regarding, among other things, the 737 Master Schedule and finished goods inventory.
+
+B.The Parties wish to memorialize their agreement on these matters in this MOA, in accordance with the terms set forth below.
+
+AGREEMENT
+
+NOW, THEREFORE, in consideration of the mutual covenants set forth herein, the Parties agree as follows:
+
+1.Capitalized Terms. Capitalized terms used and not otherwise defined in this MOA will have the meanings ascribed thereto in SBP MS-65530-0016 (“Sustaining SBP”), GTA BCA-65530-0016 (“Sustaining GTA”), AA-65530-0010 (“Sustaining AA”), SBP MS-65530-0019 (“787 SBP”), GTA BCA-65520-0032 (“787 GTA”), AA-65520-0026 (“787 AA”), PSAD D6-83315 (“Sustaining PSAD”), PSAD D6-83069 (“787 PSAD”), and the Memorandum of Agreement between Boeing and Spirit dated October 12, 2023 (collectively, the “Contracts”).
+
+2.Applicability. This MOA is effective as of the Effective Date and will remain in effect until each Party has discharged all of its obligations hereunder or as otherwise agreed by the Parties in writing (such period of effectiveness to be known as the “Effective Period”).
+
+3.Production Rate. Seller will maintain a production rate that supports Boeing’s contractual production demand.
+
+4.Advances. Subject to the satisfaction of the Conditions (as defined below), Boeing will pay to Seller, via wire transfer as an advance payment of amounts due to be paid pursuant to the Contracts, a total of $425,000,000, payable as follows: no later than April 18, 2024, the fixed
+
+sum of $275,000,000; no later than April 29, 2024, the fixed sum of $50,000,000; and no later than May 6, 2024, the fixed sum of $100,000,000 (each date an “Advance Date,” each amount an “Advance,” and collectively, the “Advances”).
+
+5.Repayment. Seller will repay the Advances to Boeing, via wire transfer of immediately available funds, in accordance with the following payment schedule: $36,600,000 to Boeing on June 12, 2024, $89,500,000 to Boeing on July 17, 2024, $150,600,000 to Boeing on August 14, 2024, $134,300,000 to Boeing on September 18, 2024 and $14,000,000 on October 16, 2024 (each such date, a “Repayment Date”).
+
+6.Use of Proceeds. Seller acknowledges, agrees, and hereby covenants to use the Advances for the sole purpose of maintaining readiness to produce Products at the rates required by Boeing (the “Purpose”), and Seller and its affiliates shall not divert, transfer, or allocate any portion of the Advances for any other purpose without the prior written consent of Boeing. Seller shall use the Advances in a diligent and responsible manner toward the Purpose, and agrees to maintain accurate documentation of such use, which shall be made available to Boeing upon request. In the event that Seller fails to comply with the obligation to dedicate the Advances solely to the Purpose, Seller shall be liable to Boeing for any misused or misallocated funds. This clause shall survive the termination or expiration of this MOA.
+
+7.Repayment Confirmation. Thirty days prior to each Repayment Date, Seller will submit to Boeing a written confirmation that Seller is able to and intends to make the required repayment (a “Repayment Confirmation”).
+
+8.Acceleration of Repayment Obligation. In the event that, at any time prior to repayment in full of the Advances by Seller in accordance with Section 5 of this MOA, any of the following occurs, all amounts that remain outstanding to Boeing pursuant to Section 5 of this MOA as of such time shall immediately become due and payable in full:
+
+a.Seller fails to make any repayment in full on the Repayment Date set forth in Section 5 above;
+
+b.Seller fails to submit a satisfactory Repayment Confirmation as required under Section 7 above;
+
+c.Seller (i) repudiates any performance obligation under the Contracts; or (ii) materially breaches, or repudiates any performance obligation under, this MOA or any other agreement between the parties arising after the date hereof; or
+
+d.Any of the enumerated Events of Default described in the article 13.1.G of the Sustaining GTA or 8.1.F of the 787 GTA occurs, either as to Seller, Spirit AeroSystems Holdings, Inc., or any of their respective subsidiaries (collectively, the “Seller Group”).
+
+9.Financial Reporting. Following the Effective Date and continuing until the later of (a) October 31, 2024 and (b) the last day of the month in which the Advances are fully repaid (the “Accommodation Period”), Seller shall, on a weekly basis, provide Boeing a 13-week cash flow forecast, prior week variance analysis, and monthly direct cash flow forecast for the Seller Group (such information, collectively, the “Financial Reports”). Such reports should include all receipts and disbursements segregated by customer and/or program or such
+
+other methodology as the Parties may agree. At all times during the Accommodation Period, Seller shall, and shall cause its representatives to, (i) at Boeing’s request, provide to Boeing and its representatives a reasonably detailed explanation of, and reasonable supporting documentation used in preparing the Financial Reports and (ii) promptly respond to all questions and requests for additional information made by Boeing and its representatives, in each case, regarding the Financial Reports and the information contained therein. If any Financial Reports contain competitively sensitive information regarding a Boeing competitor, Boeing will implement appropriate clean team procedures to limit the disclosure of that information within Boeing.
+
+10.Conditions. Notwithstanding anything to the contrary in this MOA, the Parties acknowledge and agree that Boeing’s obligation to advance the amounts in Section 4 of this MOA are subject to the following conditions (“Conditions”): Seller shall provide to Boeing an operational plan that contemplates Boeing’s [****] production rate no later than April 18, 2024; Seller shall provide to Boeing a financial forecast consistent with the above operational plan no later than April 17, 2024; and at all times prior to the applicable Advance Date, Seller shall have complied with its financial reporting obligations pursuant to Section 9 of this MOA, including by providing Financial Reports in form and substance satisfactory to Boeing, together with such supporting documentation as may be requested by Boeing in connection therewith.
+
+11.Additional Boeing Remedies. In addition to all remedies available to Boeing under this MOA, under the Contracts, or under any other agreement between the Parties, at law, or in equity—all of which are expressly reserved—Boeing will have the right to set off any unpaid amount due and payable to Boeing pursuant to this MOA from any amount owed to Seller under the Contracts or payable to Seller or any third party in connection with any other agreement between the Parties.
+
+12.Representations and Warranties by Seller. Seller hereby represents and warrants to Boeing that the following representations are true and complete as of the Effective Date and the date of each Advance:
+
+a.Due Incorporation, Qualification, etc. Seller (i) is a corporation, limited liability company or limited partnership, as applicable duly organized, validly existing and in good standing under the laws of its jurisdiction of formation; (ii) has the power and authority to own, lease and operate its properties and carry on its business as now conducted; and (iii) is duly qualified, licensed to do business and in good standing as a foreign corporation in each jurisdiction where the failure to be so qualified or licensed could reasonably be expected to have a material adverse effect on the Seller Group.
+
+b.Authority. Seller has all corporate authority necessary to authorize, execute and deliver this MOA, and perform its obligations hereunder.
+
+c.Enforceability. The MOA has been duly executed and delivered by Seller and constitutes a legal, valid and binding obligation of Seller, enforceable against Seller in accordance with its terms, except as limited by bankruptcy, insolvency or other laws of general application relating to or affecting the enforcement of creditors’ rights generally and general principles of equity.
+
+d.Non-Contravention. Seller’s execution and delivery of the MOA and the performance and consummation of the transactions contemplated hereby do not and will not (i) violate the certificate of incorporation and bylaws or other governing documents of Seller (collectively, the “Organizational Documents”) or any material judgment, order, writ, decree, statute, rule or regulation applicable to Seller; (ii) violate any provision of, or result in the breach or the acceleration of, or entitle any other person to accelerate (whether after the giving of notice or lapse of time or both), any material mortgage, indenture, agreement, instrument or contract to which such Seller is a party or by which it is bound; or (iii) result in the creation or imposition of any lien upon any property, asset or revenue of Seller or the suspension, revocation, impairment, forfeiture, or nonrenewal of any material permit, license, authorization or approval applicable to Seller, its business or operations (including the business and operations of its wholly owned subsidiaries), or any of its assets or properties, except as would not reasonably be expected to (x) have a material and adverse effect on the Seller or (y) prevent, delay or otherwise impair Seller’s ability to perform its obligations under this MOA, the Contracts or any other agreement entered into by the Parties after the date hereof.
+
+e.Approvals. No consent, approval, order or authorization of, or registration, declaration or filing with, any governmental authority or other person is required in connection with the execution and delivery of this MOA by Seller and the performance and consummation of the transactions contemplated hereby, other than such as have been obtained and remain in full force and effect and other than such qualifications or filings under applicable securities laws as may be required in connection with the transactions contemplated by this Agreement.
+
+13.Complete Agreement. This MOA constitutes the complete and exclusive agreement between the Parties with respect to the Advances and supersedes all previous agreements between the Parties relating thereto, whether written or oral. For the avoidance of doubt, this MOA does not relate to any other advance or support provided by Boeing to Seller. Except as expressly provided in this MOA, all other terms and conditions of the Contracts remain in full force and effect. Moreover, the terms of the Contracts shall remain in full force and effect, unmodified by this MOA, after the Effective Period.
+
+14.Assignment. The rights and obligations described herein cannot be assigned, in whole or in part, without the prior written consent of Boeing.
+
+15.Disputes. Any Dispute that arises under this MOA shall be addressed in accord with the Disputes provision of the Sustaining GTA.
+
+16.Governing Law and Jurisdiction. This MOA is governed by the laws of the state of Washington, exclusive of Washington’s conflict of laws principles. This MOA excludes the application of the 1980 United Nations Convention on Contracts for the International Sale of Goods. Boeing and Seller hereby irrevocably consent to and submit themselves exclusively to the jurisdiction of the applicable courts of King County, Washington, and the federal courts of Washington State for the purpose of any suit, action, or other judicial proceeding arising out of or connected with this MOA. Boeing and Seller hereby waive and agree not to assert by way of motion, as a defense, or otherwise, in any such suit, action, or proceeding, any claim that (a) Boeing and Seller are not personally subject to the jurisdiction of the above-
+
+named courts, (b) the suit, action or proceeding is brought in an inconvenient forum, or (c) the venue of the suit, action, or proceeding is improper.
+
+17.Confidential Treatment. The information contained herein is confidential business information. The Parties will limit the disclosure of this MOA’s contents to employees with a need to know and who understand that they are not to disclose its contents to any other person or entity without the prior written consent of the other Party. Notwithstanding the above, the Parties may file this MOA with the SEC, if legally required to do so, but must give the other Party two business days advance written notice and will omit confidential information as permitted by applicable law as appropriate after providing such Party the opportunity to provide comments. Nothing in this section will prevent either Party from making reasonable disclosures concerning this MOA during the course of its earnings calls.
+
+18.Interpretation. Each Party has had the opportunity to draft, review, and edit this MOA. Accordingly, no presumption for or against either Party arising out of drafting all or any part of this MOA will be applied in any action relating to or arising from this MOA; and the Parties hereby waive the benefit of any statute or common law rule providing that in cases of uncertainty language of a contract should be interpreted against the Party who caused the uncertainty to exist.
+
+EXECUTED as of the Effective Date by the duly authorized representatives of the Parties.
+
+| | | | | | | | |
+
+| THE BOEING COMPANY | | SPIRIT AEROSYSTEMS, INC.
+
+| | |
+
+| | |
+
+|
+By: /s/ Ihssane Mounir
+| |
+By: /s/ Mark Suchinski
+
+| Name: Ihssane Mounir | | Name: Mark Suchinski
+
+| Title: Senior Vice President | | Title: Senior Vice President and CFO
+
+| Date: 4/18/2024 | | Date: 4/18/2024
+
+| | |
+
+| | |
+
+| | |
+
