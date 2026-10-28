@@ -1,0 +1,10 @@
+schedule_section,date,item,amount_USDm,basis_or_calculation,status_or_limitation,source
+Group claim,2024-06-30,Opening payable by Spirit to Airbus group,122.0625,Agreed opening,No affiliate allocation supplied,customer_portfolio_statement.csv; term sheet 1.17
+Group claim,2024-07-12,AC0712 cash receipt from Spirit Europe,-4.0000,Credited reduction of group claim,Statement credit; separate bank statement not supplied,customer_portfolio_statement.csv
+Group claim,2024-07-31,Additional drawings or loan charges,0.0000,None posted,No unsupported fees added,customer_portfolio_statement.csv
+Group claim,2024-07-31,Closing payable by Spirit to Airbus group,118.0625,122.0625 - 4.0000 + 0.0000,No later loan movement supplied; repay at or before completion,customer_portfolio_statement.csv; term sheet 1.17
+Public composition cross-check,2024-06-27,A350 disclosed advance principal,100.0000,Airbus S.A.S. / Spirit Europe,Context only; not additive to group balance; nominal fee not quantified,Q2 filing Note 11
+Public composition cross-check,2024-06-27,A220 disclosed advance principal,17.0000,Airbus Canada / Shorts Brothers PLC,Context only; not additive to group balance,Q2 filing Note 11
+Public composition cross-check,2024-06-27,Combined disclosed advance principal,117.0000,100.0000 + 17.0000,Different scope/date from 30 June group opening,Q2 filing Note 11
+Public composition cross-check,2024-06-30,Unexplained opening composition difference,5.0625,122.0625 - 117.0000,Included in agreed opening; not a new claim or presumed fee; obtain breakdown,Q2 filing Note 11; term sheet 1.17; README.md
+Excluded movement,2024-08-02,AIR-0731 credits: effect on loan,0.0000,Customer claims do not change loan statement,8.0 credits settle invoice cases only,remittance_advice_20240802.md
