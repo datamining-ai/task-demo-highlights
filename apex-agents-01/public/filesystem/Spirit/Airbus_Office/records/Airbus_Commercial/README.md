@@ -1,0 +1,7 @@
+# Airbus customer account and transition purchasing — 5 August 2024
+
+SIMULATED INTERNAL RECORDS for this historical project exercise. All USD amounts below are millions. These are normal account and purchase-administration records, not historical Spirit ledgers. The genuine 30 June Airbus term sheet and Q2 report are in Sources.
+
+Commercial finance closes the July customer account and reports current claims and vendor obligations to the Airbus programme director. The customer portfolio statement below is on the same group-claim basis as section 1.17 of the term sheet. It does not allocate the opening balance between lending affiliates; no allocation schedule or new loan agreement was supplied. Airbus's customer remittance advice relates to invoice AIR-0731, not a new loan. The purchase register contains commitments made by the seller's operating company for the physical and IT separation work. Accounting expense recognition and bank settlement are different records.
+
+The transaction perimeter for the current working file is the original term-sheet perimeter with the Airbus Prestwick business sold to a third party. The third-party sale price and closing remain unagreed. No net working-capital target, tax schedule or definitive sale agreement has been executed. No source in this room establishes that the regulatory conditions or completion date have been met. Existing signed commitments remain in force while those matters are discussed.
